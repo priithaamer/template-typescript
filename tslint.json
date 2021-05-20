@@ -1,0 +1,3 @@
+{
+  "extends": ["@sixfold/ts-config", "@sixfold/editor-config/tslint"]
+}
