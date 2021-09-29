@@ -18,7 +18,6 @@
   },
   "devDependencies": {
     "@sixfold/editor-config": "^2.2.0",
-    "@sixfold/ts-config": "^4.1.2",
     "@types/node": "^16.7.0",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.2"
